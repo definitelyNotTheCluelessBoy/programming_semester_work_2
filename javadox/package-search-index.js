@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"sk.uniza.fri.filetool"},{"l":"sk.uniza.fri.grafika"},{"l":"sk.uniza.fri.chessboard"},{"l":"sk.uniza.fri.main"}];updateSearchResults();
